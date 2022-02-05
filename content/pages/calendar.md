@@ -13,34 +13,348 @@ IY = Prof. Ioannis Yannas
 
 GL = Guest lecturer
 
-| SES # | TOPICS | INSTRUCTORS |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Unit Cell Processes and Unit Tissue Structure; Effects of Exogenous Forces**{{< /td-colspan >}} |||
-| 1 | Clinical Examples of the Roles of Mechanical Forces in Tissues and Organs: The Working Paradigms | MS, IY |
-| 2 | Unit Cell Processes | MS |
-| 3 | Tissue Structures and Cell-Matrix Interactions: Integrins | MS |
-| 4 | Effects of Exogenous Mechanical Forces on Cells/Tissues | MS |
-| 5 | Effects of Pressure Waves on Tissue: Extracorporeal Shock Waves | MS |
-| 6 | Support Structures: Molecules and Tissues | IY |
-| 7 | Thermodynamics of ECM Deformation | IY |
-| 8 | Student Presentations: Term Report Candidate Topics; Review | MS, IY |
-| 9 || {{< td-colspan 2 >}}Quiz 1{{< /td-colspan >}} ||
-| {{< td-colspan 3 >}}**Mechanics of Cells and Matrix Molecules; Endogenous Force Generation**{{< /td-colspan >}} |||
-| 10 | Student Presentations: Term Report Topic Description | MS, IY |
-| 11 |  {{< br >}}{{< br >}} Response of Chondrocytes to Strain  {{< br >}}Guest lecturer: [Prof. Alan Grodzinsky](http://web.mit.edu/continuum/www/) {{< br >}}{{< br >}}  | GL |
-| 12 | Endogenous Mechanical Force Generation by Cells | MS |
-| 13 | Models for Cell Contraction _In Vitro_ | MS |
-| 14 | Linear Elastic Models of Tissues | IY |
-| 15 | Mechanical Coupling of Cells with Matrix | IY |
-| 16 | Integrin-Ligand Interactions during Regeneration | IY |
-| 17 || {{< td-colspan 2 >}}Quiz 2{{< /td-colspan >}} ||
-| {{< td-colspan 3 >}}**Tissue Mechanics**{{< /td-colspan >}} |||
-| 18 | Student Presentations: Term Report Progress | MS, IY |
-| 19 | Mechanical Behavior of Bone and Response to Loading | MS |
-| 20 | Poroelastic Models. Cartilage | IY |
-| 21 | Cardiac Muscle Cell Contraction  {{< br >}}Guest lecturer: Dr. Yvonne Aratyn-Schaus | GL |
-| 22 | Viscoelastic Behavior. Skin and Cartilage | IY |
-| 23 | Viscoelastic Behavior. Skin and Cartilage (cont.) | IY |
-| 24 | Musculoskeletal Soft Tissue Mechanics; Term Report Due | MS |
-| 25 | Mechanics of Tendon and Skin; Review | IY |
-| 26 || {{< td-colspan 2 >}}Quiz 3{{< /td-colspan >}} |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+INSTRUCTORS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Unit Cell Processes and Unit Tissue Structure; Effects of Exogenous Forces**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Clinical Examples of the Roles of Mechanical Forces in Tissues and Organs: The Working Paradigms
+{{< tdclose >}}
+{{< tdopen >}}
+MS, IY
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Unit Cell Processes
+{{< tdclose >}}
+{{< tdopen >}}
+MS
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Tissue Structures and Cell-Matrix Interactions: Integrins
+{{< tdclose >}}
+{{< tdopen >}}
+MS
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Effects of Exogenous Mechanical Forces on Cells/Tissues
+{{< tdclose >}}
+{{< tdopen >}}
+MS
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Effects of Pressure Waves on Tissue: Extracorporeal Shock Waves
+{{< tdclose >}}
+{{< tdopen >}}
+MS
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Support Structures: Molecules and Tissues
+{{< tdclose >}}
+{{< tdopen >}}
+IY
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Thermodynamics of ECM Deformation
+{{< tdclose >}}
+{{< tdopen >}}
+IY
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Student Presentations: Term Report Candidate Topics; Review
+{{< tdclose >}}
+{{< tdopen >}}
+MS, IY
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen colspan="2" >}}
+Quiz 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Mechanics of Cells and Matrix Molecules; Endogenous Force Generation**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Student Presentations: Term Report Topic Description
+{{< tdclose >}}
+{{< tdopen >}}
+MS, IY
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Response of Chondrocytes to Strain  
+Guest lecturer: [Prof. Alan Grodzinsky](http://web.mit.edu/continuum/www/)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+GL
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Endogenous Mechanical Force Generation by Cells
+{{< tdclose >}}
+{{< tdopen >}}
+MS
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Models for Cell Contraction _In Vitro_
+{{< tdclose >}}
+{{< tdopen >}}
+MS
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Linear Elastic Models of Tissues
+{{< tdclose >}}
+{{< tdopen >}}
+IY
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Mechanical Coupling of Cells with Matrix
+{{< tdclose >}}
+{{< tdopen >}}
+IY
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Integrin-Ligand Interactions during Regeneration
+{{< tdclose >}}
+{{< tdopen >}}
+IY
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen colspan="2" >}}
+Quiz 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Tissue Mechanics**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Student Presentations: Term Report Progress
+{{< tdclose >}}
+{{< tdopen >}}
+MS, IY
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Mechanical Behavior of Bone and Response to Loading
+{{< tdclose >}}
+{{< tdopen >}}
+MS
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Poroelastic Models. Cartilage
+{{< tdclose >}}
+{{< tdopen >}}
+IY
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Cardiac Muscle Cell Contraction  
+Guest lecturer: Dr. Yvonne Aratyn-Schaus
+{{< tdclose >}}
+{{< tdopen >}}
+GL
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Viscoelastic Behavior. Skin and Cartilage
+{{< tdclose >}}
+{{< tdopen >}}
+IY
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Viscoelastic Behavior. Skin and Cartilage (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+IY
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Musculoskeletal Soft Tissue Mechanics; Term Report Due
+{{< tdclose >}}
+{{< tdopen >}}
+MS
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Mechanics of Tendon and Skin; Review
+{{< tdclose >}}
+{{< tdopen >}}
+IY
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen colspan="2" >}}
+Quiz 3
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
