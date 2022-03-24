@@ -19,7 +19,7 @@ SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Homework 1 (PDF)]({{< baseurl >}}/resources/mit2_785jf14_homework_1)
+[Homework 1 (PDF)]({{< baseurl >}}/resources/mit2_785jf14_homework_1)
 {{< tdclose >}}
 {{< tdopen >}}
 [Solutions to Homework 1 (PDF)]({{< baseurl >}}/resources/mit2_785jf14_homework_1_sol)
@@ -37,7 +37,7 @@ SOLUTIONS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Homework 3 (PDF)]({{< baseurl >}}/resources/mit2_785jf14_homework_3)
+[Homework 3 (PDF)]({{< baseurl >}}/resources/mit2_785jf14_homework_3)
 {{< tdclose >}}
 {{< tdopen >}}
 [Solutions to Homework 3 (PDF)]({{< baseurl >}}/resources/mit2_785jf14_homework_3_sol)
@@ -64,7 +64,7 @@ Solutions are not available.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Homework 6 (PDF)]({{< baseurl >}}/resources/mit2_785jf14_homework_6)
+[Homework 6 (PDF)]({{< baseurl >}}/resources/mit2_785jf14_homework_6)
 {{< tdclose >}}
 {{< tdopen >}}
 [Solutions to Homework 6 (PDF)]({{< baseurl >}}/resources/mit2_785jf14_homework_6_sol)
